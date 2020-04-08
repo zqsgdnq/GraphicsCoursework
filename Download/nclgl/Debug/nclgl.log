@@ -1,0 +1,34 @@
+﻿  object.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Camera.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GameTimer.cpp
+  HeightMap.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Keyboard.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Matrix4.cpp
+  MD5Anim.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MD5FileData.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MD5Mesh.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MD5Node.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Mesh.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Mouse.cpp
+  OBJMesh.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  OGLRenderer.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Quaternion.cpp
+  SceneNode.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Shader.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Window.cpp
+D:\下载软件\Download\Download\nclgl\Keyboard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  nclgl.vcxproj -> D:\下载软件\Download\Download\Graphics For Games\Debug\nclgl.lib
